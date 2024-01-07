@@ -1,0 +1,27 @@
+train: 'C:\Users\david\PycharmProjects\Lineas_metro\yolo-metro\train'
+val: 'C:\Users\david\PycharmProjects\Lineas_metro\yolo-metro\val'
+
+
+nc: 162
+
+names: ['acatitla', 'aculco', 'agricolao', 'allende', 'apatlaco', 'aquiles', 'aragon', 'atlatilco', 'auditorio',
+    'autobuses', 'azcapotzalco', 'balbuena', 'balderas', 'barranca', 'bellasartes', 'bondojito', 'bosque',
+    'boulevard', 'buenavista', 'calle11', 'camarones', 'canaldelnorte', 'canalsan', 'candelaria',
+    'centromedico', 'cerro', 'chabacano', 'chapultepec', 'chilpancingo', 'ciudadazteca', 'ciudadeportiva',
+    'colegiomilitar', 'constitucion', 'constituyentes', 'consulado', 'copilco', 'coyoacan', 'coyuya',
+    'cuatrocaminos', 'cuauhtemoc', 'cuitlahuac', 'culhuacan', 'deportivo18marzo', 'deportivoceania',
+    'divisiondelnorte', 'doctores', 'ecatepec', 'eduardo', 'ejecentral', 'ermita', 'escuadron',
+    'etiopiaplaza', 'eugenia', 'ferreria', 'flores', 'frayservando', 'garibaldi', 'generalanaya',
+    'gomezfarias', 'guelatao', 'guerrero', 'hangares', 'hidalgo', 'hospitalgeneral', 'impulsora',
+    'indiosverdes', 'instituto', 'insurgentes', 'isabellacatolica', 'iztacalco', 'iztapalapa', 'jamaica',
+    'juanacatlan', 'juarez', 'lagunilla', 'lapaz', 'laraza', 'lazarocardenas', 'lindavista', 'lomasestrella',
+    'maquevedo', 'martincarrera', 'merced', 'mexicaltzingo', 'misterios', 'mixcoac', 'mixiuhca', 'moctezuma',
+    'morelos', 'muzquiz', 'nativitas', 'neza', 'nopalera', 'normal', 'norte', 'nov20', 'obrera', 'observatorio',
+    'oceania', 'olimpica', 'olivos', 'panteones', 'pantitlan', 'patriotismo', 'periferico_ote', 'pinosuarez',
+    'plaza', 'poderjudicial', 'polanco', 'politecnico', 'popotla', 'portales', 'potrero', 'puebla', 'refineria',
+    'revolucion', 'reyes', 'rio', 'romero', 'rosario', 'saltodelagua', 'sanandresto', 'sanantonio',
+    'sanantonioabad', 'sancosme', 'sanjoaquin', 'sanjuan', 'sanlazaro', 'sanpedro', 'santamartha', 'santanita',
+    'sevilla', 'tacuba', 'tacubaya', 'talisman', 'tasquena', 'tepalcates', 'tepito', 'terminal', 'tezonco',
+    'tezozomoc', 'tlahuac', 'tlaltenco', 'tlatelolco', 'uam', 'universidad', 'valle', 'vallejo', 'velodromo',
+    'venados', 'viaducto', 'viejo', 'viga', 'villa', 'villadecortes', 'villaragon', 'viverosderechos', 'xola',
+    'zapata', 'zapotitlan', 'zaragoza', 'zoc_tenoch']

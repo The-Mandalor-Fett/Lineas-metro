@@ -1,0 +1,650 @@
+En la carpeta: C:\Users\david\Downloads\Estaciones
+Carpetas:
+- acatitla
+- aculco
+- agricolao
+- allende
+- apatlaco
+- aquiles
+- aragon
+- atlatilco
+- auditorio
+- autobuses
+- azcapotzalco
+- balbuena
+- balderas
+- barranca
+- bellasartes
+- bondojito
+- bosque
+- boulevard
+- buenavista
+- calle11
+- camarones
+- canaldelnorte
+- canalsan
+- candelaria
+- centromedico
+- cerro
+- chabacano
+- chapultepec
+- chilpancingo
+- ciudadazteca
+- ciudadeportiva
+- colegiomilitar
+- constitucion
+- constituyentes
+- consulado
+- continentes
+- copilco
+- coyoacan
+- coyuya
+- cuatrocaminos
+- cuauhtemoc
+- cuitlahuac
+- culhuacan
+- deportivo18marzo
+- deportivoceania
+- divisiondelnorte
+- doctores
+- eduardo
+- ejecentral
+- ermita
+- escuadron
+- etiopiaplaza
+- eugenia
+- ferreria
+- flores
+- frayservando
+- garibaldi
+- generalanaya
+- gomezfarias
+- guelatao
+- guerrero
+- hangares
+- hidalgo
+- hospitalgeneral
+- impulsora
+- indiosverdes
+- instituto
+- insurgentes
+- isabellacatolica
+- iztacalco
+- iztapalapa
+- jamaica
+- juanacatlan
+- juarez
+- lagunilla
+- lapaz
+- laraza
+- lazarocardenas
+- lindavista
+- lomasestrella
+- maquevedo
+- martincarrera
+- merced
+- mexicaltzingo
+- misterios
+- mixcoac
+- mixiuhca
+- moctezuma
+- morelos
+- muzquiz
+- nativitas
+- nopalera
+- normal
+- norte
+- nov20
+- obrera
+- observatorio
+- oceania
+- olimpica
+- olivos
+- panteones
+- pantitlan
+- patriotismo
+- periferico_ote
+- pinosuarez
+- plaza
+- poderjudicial
+- polanco
+- politecnico
+- popotla
+- portales
+- potrero
+- puebla
+- refineria
+- revolucion
+- reyes
+- rio
+- romero
+- rosario
+- saltodelagua
+- sanandresto
+- sanantonio
+- sanantonioabad
+- sancosme
+- sanjoaquin
+- sanjuan
+- sanlazaro
+- sanpedro
+- santamartha
+- santanita
+- sevilla
+- tacuba
+- tacubaya
+- talisman
+- tasquena
+- tecnologico
+- tepalcates
+- tepito
+- terminal
+- tezonco
+- tezozomoc
+- tlahuac
+- tlaltenco
+- tlatelolco
+- uam
+- universidad
+- valle
+- vallejo
+- velodromo
+- venados
+- viaducto
+- viejo
+- viga
+- villa
+- villadecortes
+- villaragon
+- viverosderechos
+- xola
+- zapata
+- zapotitlan
+- zaragoza
+- zoc_tenoch
+En la carpeta: C:\Users\david\Downloads\Estaciones\acatitla
+Archivos:
+- acatitla.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\aculco
+Archivos:
+- aculco.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\agricolao
+Archivos:
+- agricolao.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\allende
+Archivos:
+- allende.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\apatlaco
+Archivos:
+- apatlaco.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\aquiles
+Archivos:
+- aquiles.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\aragon
+Archivos:
+- aragon.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\atlatilco
+Archivos:
+- atlatilco.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\auditorio
+Archivos:
+- auditorio.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\autobuses
+Archivos:
+- autobuses.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\azcapotzalco
+Archivos:
+- azcapotzalco.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\balbuena
+Archivos:
+- balbuena.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\balderas
+Archivos:
+- balderas.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\barranca
+Archivos:
+- barranca.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\bellasartes
+Archivos:
+- bellasartes.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\bondojito
+Archivos:
+- bondojito.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\bosque
+Archivos:
+- bosque.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\boulevard
+Archivos:
+- boulevard.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\buenavista
+Archivos:
+- buenavista.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\calle11
+Archivos:
+- calle11.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\camarones
+Archivos:
+- camarones.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\canaldelnorte
+Archivos:
+- canaldelnorte.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\canalsan
+Archivos:
+- canalsan.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\candelaria
+Archivos:
+- candelaria.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\centromedico
+Archivos:
+- centromedico.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\cerro
+Archivos:
+- cerro.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\chabacano
+Archivos:
+- chabacano.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\chapultepec
+Archivos:
+- chapultepec.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\chilpancingo
+Archivos:
+- chilpancingo.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\ciudadazteca
+Archivos:
+- ciudadazteca.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\ciudadeportiva
+Archivos:
+- ciudadeportiva.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\colegiomilitar
+Archivos:
+- colegiomilitar.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\constitucion
+Archivos:
+- constitucion.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\constituyentes
+Archivos:
+- constituyentes.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\consulado
+Archivos:
+- consulado.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\continentes
+Archivos:
+- continentes.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\copilco
+Archivos:
+- copilco.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\coyoacan
+Archivos:
+- coyoacan.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\coyuya
+Archivos:
+- coyuya.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\cuatrocaminos
+Archivos:
+- cuatrocaminos.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\cuauhtemoc
+Archivos:
+- cuauhtemoc.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\cuitlahuac
+Archivos:
+- cuitlahuac.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\culhuacan
+Archivos:
+- culhuacan.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\deportivo18marzo
+Archivos:
+- deportivo18marzo.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\deportivoceania
+Archivos:
+- deportivoceania.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\divisiondelnorte
+Archivos:
+- divisiondelnorte.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\doctores
+Archivos:
+- doctores.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\eduardo
+Archivos:
+- eduardo.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\ejecentral
+Archivos:
+- ejecentral.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\ermita
+Archivos:
+- ermita.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\escuadron
+Archivos:
+- escuadron.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\etiopiaplaza
+Archivos:
+- etiopiaplaza.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\eugenia
+Archivos:
+- eugenia.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\ferreria
+Archivos:
+- ferreria.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\flores
+Archivos:
+- flores.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\frayservando
+Archivos:
+- frayservando.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\garibaldi
+Archivos:
+- garibaldi.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\generalanaya
+Archivos:
+- generalanaya.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\gomezfarias
+Archivos:
+- gomezfarias.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\guelatao
+Archivos:
+- guelatao.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\guerrero
+Archivos:
+- guerrero.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\hangares
+Archivos:
+- hangares.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\hidalgo
+Archivos:
+- hidalgo.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\hospitalgeneral
+Archivos:
+- hospitalgeneral.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\impulsora
+Archivos:
+- impulsora.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\indiosverdes
+Archivos:
+- indiosverdes.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\instituto
+Archivos:
+- instituto.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\insurgentes
+Archivos:
+- insurgentes.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\isabellacatolica
+Archivos:
+- isabellacatolica.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\iztacalco
+Archivos:
+- iztacalco.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\iztapalapa
+Archivos:
+- iztapalapa.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\jamaica
+Archivos:
+- jamaica.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\juanacatlan
+Archivos:
+- juanacatlan.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\juarez
+Archivos:
+- juarez.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\lagunilla
+Archivos:
+- lagunilla.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\lapaz
+Archivos:
+- lapaz.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\laraza
+Archivos:
+- laraza.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\lazarocardenas
+Archivos:
+- lazarocardenas.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\lindavista
+Archivos:
+- lindavista.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\lomasestrella
+Archivos:
+- lomasestrella.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\maquevedo
+Archivos:
+- maquevedo.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\martincarrera
+Archivos:
+- martincarrera.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\merced
+Archivos:
+- merced.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\mexicaltzingo
+Archivos:
+- mexicaltzingo.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\misterios
+Archivos:
+- misterios.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\mixcoac
+Archivos:
+- mixcoac.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\mixiuhca
+Archivos:
+- mixiuhca.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\moctezuma
+Archivos:
+- moctezuma.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\morelos
+Archivos:
+- morelos.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\muzquiz
+Archivos:
+- muzquiz.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\nativitas
+Archivos:
+- nativitas.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\nopalera
+Archivos:
+- nopalera.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\normal
+Archivos:
+- normal.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\norte
+Archivos:
+- norte.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\nov20
+Archivos:
+- nov20.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\obrera
+Archivos:
+- obrera.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\observatorio
+Archivos:
+- observatorio.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\oceania
+Archivos:
+- oceania.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\olimpica
+Archivos:
+- olimpica.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\olivos
+Archivos:
+- olivos.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\panteones
+Archivos:
+- panteones.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\pantitlan
+Archivos:
+- pantitlan.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\patriotismo
+Archivos:
+- patriotismo.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\periferico_ote
+Archivos:
+- periferico_ote.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\pinosuarez
+Archivos:
+- pinosuarez.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\plaza
+Archivos:
+- plaza.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\poderjudicial
+Archivos:
+- poderjudicial.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\polanco
+Archivos:
+- polanco.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\politecnico
+Archivos:
+- politecnico.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\popotla
+Archivos:
+- popotla.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\portales
+Archivos:
+- portales.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\potrero
+Archivos:
+- potrero.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\puebla
+Archivos:
+- puebla.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\refineria
+Archivos:
+- refineria.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\revolucion
+Archivos:
+- revolucion.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\reyes
+Archivos:
+- reyes.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\rio
+Archivos:
+- rio.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\romero
+Archivos:
+- romero.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\rosario
+Archivos:
+- rosario.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\saltodelagua
+Archivos:
+- saltodelagua.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\sanandresto
+Archivos:
+- sanandresto.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\sanantonio
+Archivos:
+- sanantonio.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\sanantonioabad
+Archivos:
+- sanantonioabad.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\sancosme
+Archivos:
+- sancosme.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\sanjoaquin
+Archivos:
+- sanjoaquin.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\sanjuan
+Archivos:
+- sanjuan.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\sanlazaro
+Archivos:
+- sanlazaro.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\sanpedro
+Archivos:
+- sanpedro.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\santamartha
+Archivos:
+- santamartha.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\santanita
+Archivos:
+- santanita.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\sevilla
+Archivos:
+- sevilla.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\tacuba
+Archivos:
+- tacuba.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\tacubaya
+Archivos:
+- tacubaya.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\talisman
+Archivos:
+- talisman.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\tasquena
+Archivos:
+- tasquena.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\tecnologico
+Archivos:
+- tecnologico.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\tepalcates
+Archivos:
+- tepalcates.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\tepito
+Archivos:
+- tepito.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\terminal
+Archivos:
+- terminal.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\tezonco
+Archivos:
+- tezonco.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\tezozomoc
+Archivos:
+- tezozomoc.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\tlahuac
+Archivos:
+- tlahuac.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\tlaltenco
+Archivos:
+- tlaltenco.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\tlatelolco
+Archivos:
+- tlatelolco.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\uam
+Archivos:
+- uam.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\universidad
+Archivos:
+- universidad.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\valle
+Archivos:
+- valle.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\vallejo
+Archivos:
+- vallejo.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\velodromo
+Archivos:
+- velodromo.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\venados
+Archivos:
+- venados.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\viaducto
+Archivos:
+- viaducto.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\viejo
+Archivos:
+- viejo.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\viga
+Archivos:
+- viga.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\villa
+Archivos:
+- villa.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\villadecortes
+Archivos:
+- villadecortes.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\villaragon
+Archivos:
+- villaragon.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\viverosderechos
+Archivos:
+- viverosderechos.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\xola
+Archivos:
+- xola.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\zapata
+Archivos:
+- zapata.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\zapotitlan
+Archivos:
+- zapotitlan.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\zaragoza
+Archivos:
+- zaragoza.png
+En la carpeta: C:\Users\david\Downloads\Estaciones\zoc_tenoch
+Archivos:
+- zoc_tenoch.png
